@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "c3851296-69b7-4bc1-9510-46f109cd554b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-site-ibrahim"
+  },
+  "course_title": "test-site-ibrahim",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "**test-site-ibrahim**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "test-site-ibrahim",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "636e5b3f-95bc-4d0e-a882-3ddbbc9468ef",
+  "site_short_id": "test-site-ibrahim"
+}
