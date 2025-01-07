@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/test-site-ibrahim/testvideo3_captions.vtt
+file: /courses/test-site-ibrahim-test-site-ibrahim-spring-2021/testvideo3_captions.vtt
 file_size: 4434
 file_type: text/vtt
 image_metadata:
